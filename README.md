@@ -20,8 +20,9 @@ Get the latest release from the website (downloads are counted there):
 **https://www.keepware.dev/clipbridge**
 
 - macOS 13+ — one universal app (Apple silicon & Intel)
-- Windows 10/11 — x64 and ARM64, a standalone tray app
-- Android 8.0+ — one APK for phones and tablets
+- Windows 10/11 — on the Microsoft Store (x64 and ARM64), or a standalone .exe
+- Linux — Ubuntu 22.04 and later (Wayland or Xorg), a .deb for x64 and ARM64
+- Android 8.0+ — on Google Play, one app for phones and tablets
 
 Release notes live under [Releases](https://github.com/keepwarehq/clipbridge/releases).
 
